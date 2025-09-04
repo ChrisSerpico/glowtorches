@@ -48,7 +48,7 @@ public class GlowWallTorchBlock extends WallTorchBlock implements SimpleWaterlog
 
     @Override
     protected BlockState updateShape(BlockState state, Direction facing, BlockState facingState, LevelAccessor level, BlockPos currentPos, BlockPos facingPos) {
-        if (state.getValue(WATERLOGGED)) {
+        if (state.getValue(WATERLOGGED) && !level.isClientSide()) {
             level.scheduleTick(currentPos, Fluids.WATER, Fluids.WATER.getTickDelay(level));
         }
 
