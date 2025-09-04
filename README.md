@@ -1,25 +1,23 @@
+# Glow Torches
 
-Installation information
-=======
+![Screenshot of Glow Torches underwater](images/screenshot.png)
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+**Glow Torches** is a lightweight and vanilla-friendly mod that adds waterproof torches to Minecraft. The titular **Glow Torches** can be crafted with Glow Ink Sacs and function just like regular torches, except that they can be placed underwater!
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+They're not quite as bright as regular torches, having a light level of 12, but they have a unique appearance and sparkle nicely. And since Glow Squids can be difficult to find, this mod also adds a recipe to combine regular Ink Sacs with Glowstone Dust to create Glow Ink Sacs.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Recipes
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+![Recipe for Glow Torch - Glow Ink Sac on top of Stick](images/torch_recipe.png) ![Recipe for Glow Ink Sac - Ink Sac combined with Glowstone Dust](images/glow_ink_sac_recipe.png)
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+
+## Usage
+
+- You're more than welcome to use this mod in any modpacks! 
+- All of the original code in this project is licensed under the GPL-3.0, so you're free to use it or copy it as you see fit, as long as also open source any projects you release that include it
+- Attribution is appreciated but not required
+
+## Acknowledgements
+
+- The idea for this mod came from Nekoma's ["I Fixed "USELESS" Minecraft Features"](https://www.youtube.com/watch?v=lYRpvjmH6Q8) video
+- I referenced realmayus' code for their [Aquatic Torches mod](https://github.com/realmayus/aquatictorches) while working on this, although all the code for this mod was written from scratch
