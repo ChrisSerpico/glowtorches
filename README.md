@@ -8,13 +8,12 @@ They're not quite as bright as regular torches, having a light level of 12, but 
 
 ## Recipes
 
-![Recipe for Glow Torch - Glow Ink Sac on top of Stick](images/torch_recipe.png) ![Recipe for Glow Ink Sac - Ink Sac combined with Glowstone Dust](images/glow_ink_sac_recipe.png)
-
+<img src="images/torch_recipe.png" alt="Recipe for Glow Torch - Glow Ink Sac on top of Stick" style="width:49%; height:auto;"> <img src="images/glow_ink_sac_recipe.png" alt="Recipe for Glow Ink Sac - Ink Sac combined with Glowstone Dust" style="width:49%; height:auto;">
 
 ## Usage
 
 - You're more than welcome to use this mod in any modpacks! 
-- All of the original code in this project is licensed under the GPL-3.0, so you're free to use it or copy it as you see fit, as long as also open source any projects you release that include it
+- All of the original code in this project is licensed under the GPL-3.0, so you're free to use it or copy it as you see fit, as long as you also open source any projects you release that include it
 - Attribution is appreciated but not required
 
 ## Acknowledgements
