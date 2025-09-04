@@ -1,0 +1,11 @@
+{
+  "block.glowtorches.glow_torch": "Glow Torch",
+
+  "glowtorches.configuration.title": "Glow Torches Configs",
+  "glowtorches.configuration.section.glowtorches.common.toml": "Glow Torches Configs",
+  "glowtorches.configuration.section.glowtorches.common.toml.title": "Glow Torches Configs",
+  "glowtorches.configuration.items": "Item List",
+  "glowtorches.configuration.logDirtBlock": "Log Dirt Block",
+  "glowtorches.configuration.magicNumberIntroduction": "Magic Number Text",
+  "glowtorches.configuration.magicNumber": "Magic Number"
+}

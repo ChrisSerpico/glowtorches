@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "glowtorches:block/glow_torch"
+    }
+  }
+}
