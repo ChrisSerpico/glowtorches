@@ -8,7 +8,11 @@ They're not quite as bright as regular torches, having a light level of 12, but 
 
 ## Recipes
 
-<img src="images/torch_recipe.png" alt="Recipe for Glow Torch - Glow Ink Sac on top of Stick" style="width:49%; height:auto;"> <img src="images/glow_ink_sac_recipe.png" alt="Recipe for Glow Ink Sac - Ink Sac combined with Glowstone Dust" style="width:49%; height:auto;">
+### Glow Torch
+![Recipe for Glow Torch - Glow Ink Sac on top of Stick](images/torch_recipe.png)
+
+### Glow Ink Sac
+ ![Recipe for Glow Ink Sac - Ink Sac combined with Glowstone Dust](images/glow_ink_sac_recipe.png)
 
 ## Usage
 
